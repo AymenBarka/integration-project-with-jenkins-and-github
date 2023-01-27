@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2173" started-at="2023-01-24T13:01:26 WAT" finished-at="2023-01-24T13:01:28 WAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2173" started-at="2023-01-24T13:01:26 WAT" finished-at="2023-01-24T13:01:28 WAT">
+      <class name="tests.ProductHoverMenuTest">
+        <test-method status="PASS" signature="startDriver(java.lang.String)[pri:0, instance:tests.ProductHoverMenuTest@daef40]" name="startDriver" is-config="true" duration-ms="8402" started-at="2023-01-24T13:01:18 WAT" finished-at="2023-01-24T13:01:26 WAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="UserCanSelectSubCategoryFromMainMenu()[pri:0, instance:tests.ProductHoverMenuTest@daef40]" name="UserCanSelectSubCategoryFromMainMenu" duration-ms="2083" started-at="2023-01-24T13:01:26 WAT" finished-at="2023-01-24T13:01:28 WAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanSelectSubCategoryFromMainMenu -->
+        <test-method status="PASS" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.ProductHoverMenuTest@daef40]" name="screenshotOnFailure" is-config="true" duration-ms="2" started-at="2023-01-24T13:01:28 WAT" finished-at="2023-01-24T13:01:28 WAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserCanSelectSubCategoryFromMainMenu status=SUCCESS method=ProductHoverMenuTest.UserCanSelectSubCategoryFromMainMenu()[pri:0, instance:tests.ProductHoverMenuTest@daef40] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOnFailure -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:tests.ProductHoverMenuTest@daef40]" name="stopDriver" is-config="true" duration-ms="975" started-at="2023-01-24T13:01:28 WAT" finished-at="2023-01-24T13:01:29 WAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- tests.ProductHoverMenuTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
