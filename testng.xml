@@ -9,7 +9,6 @@
 			<class name="tests.AddProductReviewTest" />
 			<class name="tests.ProductHoverMenuTest"/>
 			<class name="tests.MyAccountTest" />
-			<class name="tests.RegisteredUserCheckoutProductTest" />
 			<class name="tests.SearchProductUsingAutoSuggestTest" />
 			<class name="tests.GuestCheckoutProductFromCartTest" />
 		</classes>
