@@ -28,7 +28,7 @@ public class AddProductReviewTest extends TestBase
 	SearchPage searchObject ; 
 	ProductDetailsPage detailsObject ;
 	ProductReviewPage reviewObject ; 
-	String email = "test0000000411@gmail.com";
+	String email = "test0006660411@gmail.com";
 	String password = "12345678";
 
 	// 1- User Registration 

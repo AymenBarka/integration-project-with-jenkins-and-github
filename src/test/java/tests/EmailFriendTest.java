@@ -19,7 +19,7 @@ public class EmailFriendTest extends TestBase
 	SearchPage searchObject ; 
 	ProductDetailsPage detailsObject ;
 	EmailPage emailObject ; 
-	String email = "test1316387@gmail.com";
+	String email = "test170287@gmail.com";
 	String password = "12345678";
 
 	// 1- User Registration 

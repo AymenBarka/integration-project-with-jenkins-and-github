@@ -4,7 +4,6 @@
 	<test name="Regression Test" preserve-order="false">
 		<classes>
 			
-			<class name="tests.AddProductToCompareTest" />
 			<class name="tests.EmailFriendTest" />
 			<class name="tests.AddProductReviewTest" />
 			<class name="tests.ProductHoverMenuTest"/>

@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9610" started-at="2023-01-28T11:56:34 WAT" finished-at="2023-01-28T11:56:44 WAT">
+  <suite name="Default suite" duration-ms="15366" started-at="2023-01-28T12:23:10 WAT" finished-at="2023-01-28T12:23:25 WAT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9610" started-at="2023-01-28T11:56:34 WAT" finished-at="2023-01-28T11:56:44 WAT">
+    <test name="Default test" duration-ms="15366" started-at="2023-01-28T12:23:10 WAT" finished-at="2023-01-28T12:23:25 WAT">
       <class name="tests.AddProductToCompareTest">
-        <test-method status="PASS" signature="startDriver(java.lang.String)[pri:0, instance:tests.AddProductToCompareTest@daef40]" name="startDriver" is-config="true" duration-ms="8864" started-at="2023-01-28T11:56:25 WAT" finished-at="2023-01-28T11:56:34 WAT">
+        <test-method status="PASS" signature="startDriver(java.lang.String)[pri:0, instance:tests.AddProductToCompareTest@daef40]" name="startDriver" is-config="true" duration-ms="20802" started-at="2023-01-28T12:22:49 WAT" finished-at="2023-01-28T12:23:10 WAT">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDriver -->
-        <test-method status="PASS" signature="UserCanCompareProducts()[pri:1, instance:tests.AddProductToCompareTest@daef40]" name="UserCanCompareProducts" duration-ms="8528" started-at="2023-01-28T11:56:34 WAT" finished-at="2023-01-28T11:56:43 WAT">
+        <test-method status="PASS" signature="UserCanCompareProducts()[pri:1, instance:tests.AddProductToCompareTest@daef40]" name="UserCanCompareProducts" duration-ms="12485" started-at="2023-01-28T12:23:11 WAT" finished-at="2023-01-28T12:23:24 WAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserCanCompareProducts -->
-        <test-method status="PASS" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.AddProductToCompareTest@daef40]" name="screenshotOnFailure" is-config="true" duration-ms="2" started-at="2023-01-28T11:56:43 WAT" finished-at="2023-01-28T11:56:43 WAT">
+        <test-method status="PASS" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.AddProductToCompareTest@daef40]" name="screenshotOnFailure" is-config="true" duration-ms="2" started-at="2023-01-28T12:23:24 WAT" finished-at="2023-01-28T12:23:24 WAT">
           <params>
             <param index="0">
               <value>
@@ -33,11 +33,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- screenshotOnFailure -->
-        <test-method status="PASS" signature="UserCanClearCompareList()[pri:2, instance:tests.AddProductToCompareTest@daef40]" name="UserCanClearCompareList" duration-ms="962" started-at="2023-01-28T11:56:43 WAT" finished-at="2023-01-28T11:56:44 WAT">
+        <test-method status="PASS" signature="UserCanClearCompareList()[pri:2, instance:tests.AddProductToCompareTest@daef40]" name="UserCanClearCompareList" duration-ms="1213" started-at="2023-01-28T12:23:24 WAT" finished-at="2023-01-28T12:23:25 WAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserCanClearCompareList -->
-        <test-method status="PASS" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.AddProductToCompareTest@daef40]" name="screenshotOnFailure" is-config="true" duration-ms="0" started-at="2023-01-28T11:56:44 WAT" finished-at="2023-01-28T11:56:44 WAT">
+        <test-method status="PASS" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.AddProductToCompareTest@daef40]" name="screenshotOnFailure" is-config="true" duration-ms="1" started-at="2023-01-28T12:23:25 WAT" finished-at="2023-01-28T12:23:25 WAT">
           <params>
             <param index="0">
               <value>
@@ -48,7 +48,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- screenshotOnFailure -->
-        <test-method status="PASS" signature="stopDriver()[pri:0, instance:tests.AddProductToCompareTest@daef40]" name="stopDriver" is-config="true" duration-ms="895" started-at="2023-01-28T11:56:44 WAT" finished-at="2023-01-28T11:56:45 WAT">
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:tests.AddProductToCompareTest@daef40]" name="stopDriver" is-config="true" duration-ms="2743" started-at="2023-01-28T12:23:27 WAT" finished-at="2023-01-28T12:23:30 WAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopDriver -->
